@@ -2,16 +2,17 @@
   "status_code": 1,
   "message": "Success",
   "category_images": {
-    "hanuman_chalisa": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada_category_image/cat_hanuman_chalisa.webp",
-    "bajrang_baan": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada_category_image/cat_bajrang_baan.webp",
-    "hanuman_arti": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada_category_image/cat_hanuman_arti.webp",
-    "hanuman_mantra": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada_category_image/cat_hanuman_mantra.webp",
-    "hanuman_bhajan": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada_category_image/cat_hanuman_bhajan.webp",
-    "hanuman_ashtak": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada_category_image/cat_hanuman_ashtak.webp",
-    "sundarkand": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada_category_image/cat_sundarkand.webp",
-    "hanuman_bahuk": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada_category_image/cat_hanuman_bahuk.webp",
-    "hanuman_stotra": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada_category_image/cat_hanuman_stotra.webp",
-    "hanuman_katha": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada_category_image/cat_hanuman_katha.webp"
+    "hanuman_chalisa": "https://heavenlife.github.io/Hanuman_Chalisa/category_images/cat_hanuman_chalisa.webp",
+    "bajrang_baan": "https://heavenlife.github.io/Hanuman_Chalisa/category_images/cat_bajrang_baan.webp",
+    "hanuman_arti": "https://heavenlife.github.io/Hanuman_Chalisa/category_images/cat_hanuman_arti.webp",
+    "hanuman_mantra": "https://heavenlife.github.io/Hanuman_Chalisa/category_images/cat_hanuman_mantra.webp",
+    "hanuman_ashtak": "https://heavenlife.github.io/Hanuman_Chalisa/category_images/cat_hanuman_ashtak.webp",
+    "sundarkand": "https://heavenlife.github.io/Hanuman_Chalisa/category_images/cat_sundarkand.webp",
+    "hanuman_bahuk": "https://heavenlife.github.io/Hanuman_Chalisa/category_images/cat_hanuman_bahuk.webp",
+    "hanuman_stotra": "https://heavenlife.github.io/Hanuman_Chalisa/category_images/cat_hanuman_stotra.webp",
+    "hanuman_katha": "https://heavenlife.github.io/Hanuman_Chalisa/category_images/cat_hanuman_katha.webp",
+    "hanuman_dada_wallpaper": "https://heavenlife.github.io/Hanuman_Chalisa/category_images/cat_hanuman_dada_wallpaper.webp",
+    "hanuman_dada_ai_prompts": "https://heavenlife.github.io/Hanuman_Chalisa/category_images/cat_hanuman_dada_ai_prompts.webp"
   },
   "hanuman_chalisa": [
     {
@@ -549,12 +550,151 @@
       "Youtube": "https://www.youtube.com/watch?v=Fahq3LYQq88"
     }
   ],
-  "hanuman_arti": [],
-  "hanuman_mantra": [],
-  "hanuman_bhajan": [],
-  "hanuman_ashtak": [],
-  "sundarkand": [],
-  "hanuman_bahuk": [],
-  "hanuman_stotra": [],
-  "hanuman_katha": []
+  "hanuman_arti": [
+    {
+      "id": "hanuman_arti_1",
+      "title": "",
+      "title_gujarati": "",
+      "title_english": "",
+      "subtitle_hindi": "",
+      "subtitle_gujarati": "",
+      "subtitle_english": "",
+      "category": "Hanuman Arti",
+      "artist_hindi": "",
+      "artist_gujarati": "",
+      "artist_english": "",
+      "audioUrl": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/hanuman_arti/hanuman_arti_audio1/bajrang_baan_10.mp3",
+      "imageUrl": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/hanuman_arti/hanuman_arti_audio_image1/bajrang_baan_10.webp",
+      "durationText": "",
+      "isPremium": false,
+      "View": "",
+      "Youtube": ""
+    }
+  ],
+  "hanuman_mantra": [
+    {
+      "id": "hanuman_arti_1",
+      "title": "",
+      "title_gujarati": "",
+      "title_english": "",
+      "subtitle_hindi": "",
+      "subtitle_gujarati": "",
+      "subtitle_english": "",
+      "category": "Hanuman Arti",
+      "artist_hindi": "",
+      "artist_gujarati": "",
+      "artist_english": "",
+      "audioUrl": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/hanuman_arti/hanuman_arti_audio1/bajrang_baan_10.mp3",
+      "imageUrl": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/hanuman_arti/hanuman_arti_audio_image1/bajrang_baan_10.webp",
+      "durationText": "",
+      "isPremium": false,
+      "View": "",
+      "Youtube": ""
+    }
+  ],
+  "hanuman_ashtak": [
+    {
+      "id": "hanuman_arti_1",
+      "title": "",
+      "title_gujarati": "",
+      "title_english": "",
+      "subtitle_hindi": "",
+      "subtitle_gujarati": "",
+      "subtitle_english": "",
+      "category": "Hanuman Arti",
+      "artist_hindi": "",
+      "artist_gujarati": "",
+      "artist_english": "",
+      "audioUrl": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/hanuman_arti/hanuman_arti_audio1/bajrang_baan_10.mp3",
+      "imageUrl": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/hanuman_arti/hanuman_arti_audio_image1/bajrang_baan_10.webp",
+      "durationText": "",
+      "isPremium": false,
+      "View": "",
+      "Youtube": ""
+    }
+  ],
+  "sundarkand": [
+    {
+      "id": "hanuman_arti_1",
+      "title": "",
+      "title_gujarati": "",
+      "title_english": "",
+      "subtitle_hindi": "",
+      "subtitle_gujarati": "",
+      "subtitle_english": "",
+      "category": "Hanuman Arti",
+      "artist_hindi": "",
+      "artist_gujarati": "",
+      "artist_english": "",
+      "audioUrl": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/hanuman_arti/hanuman_arti_audio1/bajrang_baan_10.mp3",
+      "imageUrl": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/hanuman_arti/hanuman_arti_audio_image1/bajrang_baan_10.webp",
+      "durationText": "",
+      "isPremium": false,
+      "View": "",
+      "Youtube": ""
+    }
+  ],
+  "hanuman_bahuk": [
+    {
+      "id": "hanuman_arti_1",
+      "title": "",
+      "title_gujarati": "",
+      "title_english": "",
+      "subtitle_hindi": "",
+      "subtitle_gujarati": "",
+      "subtitle_english": "",
+      "category": "Hanuman Arti",
+      "artist_hindi": "",
+      "artist_gujarati": "",
+      "artist_english": "",
+      "audioUrl": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/hanuman_arti/hanuman_arti_audio1/bajrang_baan_10.mp3",
+      "imageUrl": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/hanuman_arti/hanuman_arti_audio_image1/bajrang_baan_10.webp",
+      "durationText": "",
+      "isPremium": false,
+      "View": "",
+      "Youtube": ""
+    }
+  ],
+  "hanuman_stotra": [
+    {
+      "id": "hanuman_arti_1",
+      "title": "",
+      "title_gujarati": "",
+      "title_english": "",
+      "subtitle_hindi": "",
+      "subtitle_gujarati": "",
+      "subtitle_english": "",
+      "category": "Hanuman Arti",
+      "artist_hindi": "",
+      "artist_gujarati": "",
+      "artist_english": "",
+      "audioUrl": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/hanuman_arti/hanuman_arti_audio1/bajrang_baan_10.mp3",
+      "imageUrl": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/hanuman_arti/hanuman_arti_audio_image1/bajrang_baan_10.webp",
+      "durationText": "",
+      "isPremium": false,
+      "View": "",
+      "Youtube": ""
+    }
+  ],
+  "hanuman_katha": [
+    {
+      "id": "hanuman_arti_1",
+      "title": "",
+      "title_gujarati": "",
+      "title_english": "",
+      "subtitle_hindi": "",
+      "subtitle_gujarati": "",
+      "subtitle_english": "",
+      "category": "Hanuman Arti",
+      "artist_hindi": "",
+      "artist_gujarati": "",
+      "artist_english": "",
+      "audioUrl": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/hanuman_arti/hanuman_arti_audio1/bajrang_baan_10.mp3",
+      "imageUrl": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/hanuman_arti/hanuman_arti_audio_image1/bajrang_baan_10.webp",
+      "durationText": "",
+      "isPremium": false,
+      "View": "",
+      "Youtube": ""
+    }
+  ]
 }
