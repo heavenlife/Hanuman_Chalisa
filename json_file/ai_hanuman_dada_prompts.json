@@ -1,0 +1,15 @@
+{
+  "ai_hanuman_dada_prompts": [
+    {
+      "id": "ai_01",
+      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-1.webp",
+      "category_name": "AI Portrait",
+      "prompt": "A hyper-realistic portrait of the young woman from the uploaded image (Google Gemini refinement), captured in a close-up at a tilted 45-degree angle, with waist-length very long brown voluminous hair flowing freely, a few thin soft strands drifting across her face to highlight her long curled eyelashes, her lips in a gentle deep red shade giving a dreamy sweetness.",
+      "ai_style": "Photorealistic",
+      "view": "128K",
+      "is_premium": false,
+    }
+
+  ],
+  "ai_shivji_prompts": []
+}
