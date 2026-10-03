@@ -2,14 +2,109 @@
   "ai_hanuman_dada_prompts": [
     {
       "id": "ai_01",
-      "image_url": "https://heavenlife.github.io/AI_Prompt/images/ai-1.webp",
-      "category_name": "AI Portrait",
-      "prompt": "A hyper-realistic portrait of the young woman from the uploaded image (Google Gemini refinement), captured in a close-up at a tilted 45-degree angle, with waist-length very long brown voluminous hair flowing freely, a few thin soft strands drifting across her face to highlight her long curled eyelashes, her lips in a gentle deep red shade giving a dreamy sweetness.",
-      "ai_style": "Photorealistic",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/ai_hanuman_dada_prompt/ai_01.webp",
+      "prompt": "A CINEMATIC, FULL-LENGTH PORTRAIT OF A YOUNG SOUTH ASIAN WOMAN WITH CLOSED EYES AND ARMS CROSSED, WEARING AN REFRENCE IMAGE DRESS, LEANING ON LORD HANUMAN JI DANCING IN FRONT OF RAM AND SITA G AGAINSTA DARK TEXTURED WALL NEXT TO A MASSIVE, SERENE BLUE MURAL OF HANUMAN JI DANCING IN FRONT OF RAM G AUR SITA G, ILLUMINATED BY A DRAMATIC, GLOWING BACKLIGHT THAT CREATES AN ETHEREAL HALO EFFECT WITH A WARM, GRAINY 90S FILM AESTHETIC. HIGHLY DETAILED REALISTIC SKIN TEXTURE, VISIBLE NATURAL PORES, MICRO-TEXTURE, SUBSURFACE SCATTERING, SLIGHT PEACH FUZZ, SUBTLE IMPERFECTIONS, REALISTIC SKIN TONE WITH SUBTLE NATURAL REDNESS AND UNDERTONES, UNRETOUCHED LOOK, RAW PHOTOGRAPHY NEGATIVE PROMPT: PLASTIC, OVER-SMOOTHED SKIN.",
       "view": "128K",
-      "is_premium": false,
+      "is_premium": false
+    },
+    {
+      "id": "ai_02",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/ai_hanuman_dada_prompt/ai_02.webp",
+      "prompt": "A cinematic devotional portrait featuring a young South Asian woman with closed eyes and crossed arms beside Lord Hanuman Ji, with Ram and Sita Ji represented in a massive serene blue mural behind her. Dark textured wall, dramatic glowing backlight, ethereal halo, warm grainy 90s film aesthetic, realistic skin texture, natural pores, micro-texture, subtle imperfections, realistic skin tone, raw photography, ultra-detailed cinematic realism.",
+      "view": "76K",
+      "is_premium": false
+    },
+    {
+      "id": "ai_03",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/ai_hanuman_dada_prompt/ai_03.webp",
+      "prompt": "Create an ultra-realistic cinematic edit using the uploaded image of a person, keeping the same face, same body, same identity without any changes. Transform the scene into a dark ancient Hindu temple where the person is kneeling naturally on both knees, feet aligned behind, arms stretched wide open in devotion. In front of him place a massive, highly detailed Hanuman statue holding a gada with a calm yet powerful divine expression. Ancient carved stone pillars, burning diyas, incense smoke, saffron flags, wet reflective stone floor, dark moody cinematic lighting, strong divine light beam, smoky atmosphere, ultra-detailed textures, epic spiritual composition.",
+      "view": "2.4M",
+      "is_premium": true
+    },
+    {
+      "id": "ai_04",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/ai_hanuman_dada_prompt/ai_04.webp",
+      "prompt": "Transform the uploaded image into a hyper-realistic cinematic scene. Keep the same man, same background and camera angle. Lord Hanuman inspired by Hanuman standing behind him as a guardian spirit. The god is towering, with one massive hand gently placed on the man's head symbolizing divine strength and protection. Dramatic volumetric light rays breaking through darkness, smoky chalk dust in the air, cinematic shadows, intense emotion, dark fantasy realism, mythological atmosphere, ultra-detailed textures, high contrast, shallow depth of field, epic composition, ultra-real cinematic color grading.",
+      "view": "543K",
+      "is_premium": false
+    },
+    {
+      "id": "ai_05",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/ai_hanuman_dada_prompt/ai_05.webp",
+      "prompt": "A young Indian yogi meditating underwater in a lotus pose, eyes closed, wearing flowing saffron-red robes and a rudraksha mala. Behind him stands a colossal ancient Hanuman statue submerged deep beneath the ocean, holding a gada on the shoulder. Crystal-clear blue water, floating particles, tiny fish, mystical underwater atmosphere, golden sunlight rays penetrating through the water surface, divine volumetric lighting, ethereal glow, sacred Hindu spiritual energy, cinematic composition, photorealistic, ultra-detailed, HDR, sharp focus, realistic underwater reflections, 8K masterpiece.",
+      "view": "1.8M",
+      "is_premium": false
+    },
+    {
+      "id": "ai_06",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/ai_hanuman_dada_prompt/ai_06.webp",
+      "prompt": "A cinematic ultra-detailed spiritual artwork of a young Indian man using the face exactly from the uploaded reference image, meditating in a perfect lotus pose. He wears a bright saffron-orange kurta with intricate white embroidery and off-white dhoti pants, with realistic fabric texture and natural folds. Behind him stands a massive divine golden statue of Lord Hanuman holding a gada, surrounded by a symmetrical spiraling circular halo of glowing Sanskrit text 'ॐ श्री राम राम राम'. Ancient Indian temple architecture, carved stone pillars, mist, clouds, divine god rays, gold and saffron color palette, dramatic volumetric lighting, hyper-realistic cinematic realism, 8K quality, symmetrical composition, no watermark, no logo.",
+      "view": "325K",
+      "is_premium": false
+    },
+    {
+      "id": "ai_07",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/ai_hanuman_dada_prompt/ai_07.webp",
+      "prompt": "Create a photorealistic ultra-detailed cinematic scene using my original face, original hair, and original body proportions exactly from the uploaded reference image. I am wearing a clean white cotton shirt, traditional off-white dhoti, rudraksha mala, sandalwood chandan tilak, and red sacred thread. I am sitting in deep meditative sadhana pose in an ancient cremation ground or abandoned ruined temple at night. Ghosts, spirits and witches surround me but cannot touch me. A glowing sacred havan fire burns in front of me while a fiery mystical manifestation of Lord Hanuman protects me as a divine shield. Cinematic dark grading, fiery oranges and glowing reds, volumetric lighting, sparks, smoke, ash particles, ultra-realistic textures, 8K cinematic realism.",
+      "view": "987K",
+      "is_premium": false
+    },
+    {
+      "id": "ai_08",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/ai_hanuman_dada_prompt/ai_08.webp",
+      "prompt": "Create a cinematic emotional ultra-realistic frame featuring two subjects together — me and Lord Hanuman Ji. Use my face exactly from the uploaded reference image with original face, hair and body proportions. I am wearing a simple white shirt and black pants, barefoot, seated calmly with devotion. Lord Hanuman Ji is seated beside me under a large ancient tree. My head is gently resting on Hanuman Ji's lap while Hanuman Ji looks at me with compassion and protection, softly touching my head in blessing. Natural orange skin tone, realistic muscular body, traditional crown, gold jewelry, sacred mala and gada resting against the tree. Peaceful forest at dusk, warm golden sunlight, cinematic god rays, soft mist, ultra-realistic skin and fabric textures, 8K devotional realism.",
+      "view": "4.2M",
+      "is_premium": true
+    },
+    {
+      "id": "ai_09",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/ai_hanuman_dada_prompt/ai_09.webp",
+      "prompt": "Cinematic urban fantasy scene of a young man using the face exactly from the uploaded image. He wears a hoodie layered with a denim vest covered in patches, joggers and white high-top sneakers. He stands on an urban rooftop at night with graffiti walls and neon city lights. Both hands glow with supernatural fire. A fiery neon mystical Lord Hanuman Ji spirals around his body as a holographic energy form, luminous red-orange with electric blue highlights, semi-transparent, powerful and divine. Cyberpunk VFX aesthetic, dramatic lighting, neon reflections, smoke, embers, glowing particles, shallow depth of field, photorealistic cinematic realism, modern mythology vibe.",
+      "view": "654K",
+      "is_premium": false
+    },
+    {
+      "id": "ai_10",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/ai_hanuman_dada_prompt/ai_10.webp",
+      "prompt": "Create a realistic photorealistic portrait in a dense jungle near a cave. I am sitting calmly on a stone with eyes gently closed, meditating and remembering Lord Hanuman. Use my face exactly from the uploaded reference image. I am wearing a white dhoti with a saffron stole and holding a mala while meditating. In the background a soft glowing divine shadow of Lord Hanuman appears, creating a subtle protective aura. Natural jungle elements, rocks, cave entrance, soft greenery, gentle natural light, warm highlights, light mist, peaceful sacred atmosphere, photorealistic cinematic realism, sharp focus, natural skin texture, no cartoon, no anime, no text, no watermark.",
+      "view": "219K",
+      "is_premium": false
+    },
+    {
+      "id": "ai_11",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/ai_hanuman_dada_prompt/ai_11.webp",
+      "prompt": "Use my uploaded photo as the exact facial reference for the human devotee. Create an ultra-realistic cinematic devotional scene inside a grand golden temple. I am standing respectfully in front with hands joined in namaste, wearing simple traditional attire. In front of me stands a majestic Panchmukhi Hanuman Ji idol with all five faces clearly visible, ornate golden crowns, sacred tilak, intricate jewelry and glowing spiritual aura. Both devotee and Hanuman Ji are in sharp crystal-clear focus. Warm divine light rays fill the temple with incense smoke and floating particles. Rich gold and warm amber tones, DSLR-quality HDR, symmetrical composition, vertical 9:16, 8K, photorealistic devotional realism, no distortion, no watermark, no text.",
+      "view": "3.7M",
+      "is_premium": true
+    },
+    {
+      "id": "ai_12",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/ai_hanuman_dada_prompt/ai_12.webp",
+      "prompt": "Ultra-realistic divine cinematic scene of Lord Hanuman standing powerfully in a snowy landscape near the Kedarnath temple with soft snowfall. Hanuman has a bright natural orange skin tone, muscular physique, calm protective expression, glowing divine aura, tilak, golden mukut, sacred janeu, long flowing tail and a mighty gada. In front of Hanuman a peaceful young Indian man uses the face exactly from the uploaded reference image and kneels on the snow with folded hands and eyes closed in devotion. Hanuman gently places his hand on the man's head giving blessings. Warm divine glow, realistic snowy lighting, subtle mist, spiritual atmosphere, cinematic depth of field, ultra-detailed textures, DSLR realism, 8K quality.",
+      "view": "812K",
+      "is_premium": false
+    },
+    {
+      "id": "ai_13",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/ai_hanuman_dada_prompt/ai_13.webp",
+      "prompt": "Hyper-realistic cinematic devotional portrait of a young man using the face exactly from the uploaded reference image, original face, hair and proportions. He wears a light sky-blue embroidered kurta-style shirt and black baggy jeans. He gently holds a radiant saffron-golden beautifully adorned Bal Hanuman Ji idol that radiates divine innocence and soft spiritual glow. Orange and red flower petals float around him. Warm diyas illuminate the background with golden divine rays behind Bal Hanuman Ji. Rich warm tones, soft highlights on skin, realistic shadows, ultra-detailed textures, cinematic lighting, DSLR realism, shallow depth of field, luxury color grading, devotional mood, photorealistic 8K quality.",
+      "view": "1.2M",
+      "is_premium": true
+    },
+    {
+      "id": "ai_14",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/ai_hanuman_dada_prompt/ai_14.webp",
+      "prompt": "Cinematic-quality ultra-realistic photo of a young man using the face exactly from the uploaded reference image without changing the face. His face is highly detailed and realistic with a gentle slight smile. He stands naturally and respectfully in a prayer posture. In front of him is a majestic natural-looking statue of Lord Hanuman with realistic proportions and divine presence. Dramatic high-definition cinematic lighting with natural shadows and highlights creates a powerful yet peaceful devotional atmosphere. Photorealistic DSLR realism, sharp focus, realistic skin texture, spiritual mood, not cartoon, not anime, no text, no watermark.",
+      "view": "438K",
+      "is_premium": true
+    },
+    {
+      "id": "ai_15",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/hanuman_dada/ai_hanuman_dada_prompt/ai_15.webp",
+      "prompt": "Use the uploaded photo as the primary and only face reference for the human character. The face must match exactly with the same identity, facial structure, skin tone, eyes, nose, lips, hairstyle and expression. Do not change, beautify, stylize or enhance the face. A young man is sitting in deep meditation padmasana, floating slightly above soft clouds, wearing a simple saffron-orange t-shirt and jeans, hands in gyan mudra. Behind him appears a large divine form of Lord Hanuman in meditation pose with calm compassionate expression, golden crown, traditional ornaments, sacred tilak and flowing orange cloth. A radiant golden circular halo glows behind Hanuman. Vast sky with soft clouds, distant Himalayan mountains, warm golden spiritual light and subtle divine symbols. Ultra-realistic cinematic lighting, natural skin tones, sharp facial details, high-end DSLR photography, 4K Ultra-HD, vertical 9:16, no cartoon, no anime, no illustration, no painting, no beauty filters, no face distortion.",
+      "view": "2.9M",
+      "is_premium": false
     }
-
   ],
   "ai_shivji_prompts": []
 }
