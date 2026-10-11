@@ -1,0 +1,18 @@
+{
+  "ai_ambe_ma_prompts": [
+    {
+      "id": "ai_01",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/ambe_ma_wallpaper/ai_ambe_ma_prompt/ai_01.webp",
+      "prompt": "",
+      "view": "128K",
+      "is_premium": false
+    },
+    {
+      "id": "ai_02",
+      "image_url": "https://heavenlife.github.io/Hanuman_Chalisa/ambe_ma_wallpaper/ai_ambe_ma_prompt/ai_02.webp",
+      "prompt": "",
+      "view": "76K",
+      "is_premium": false
+    }
+  ]
+}
